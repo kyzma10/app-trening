@@ -1,0 +1,17 @@
+{
+  "data":
+  [
+    {
+      "userName": "Bob",
+      "userAge": 24
+    },
+    {
+      "userName": "Alice",
+      "userAge": 23
+    },
+    {
+      "userName": "Pit",
+      "userAge": 6
+    }
+  ]
+}
